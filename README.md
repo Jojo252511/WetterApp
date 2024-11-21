@@ -22,11 +22,7 @@ Diese WebApp ist unter der MIT-Lizenz lizenziert, was bedeutet, dass sie frei ge
 - fontawesome.com für die Wettersymbole
 
 ## Version
-1.1.0 - Neuste Version
+1.0.0 - Neuste Version
 
 ## Changelog
-1.1.0 - Neue Funktionen:
-    - Infos zum Ort
-    - Vorhersagen (3Tage)
-    
 1.0.0 - Erste Veröffentlichung der WetterApp.
